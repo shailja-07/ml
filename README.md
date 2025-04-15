@@ -1,0 +1,1 @@
+This project conducts Exploratory Data Analysis (EDA) on a heart disease dataset for classifying cardiac tumors as malignant (cancerous) or benign (non-cancerous).The objective of this EDA is to reveal patterns, associations, and insights from the data, getting it ready for additional machine learning modeling.
